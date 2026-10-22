@@ -1,0 +1,12 @@
+com\example\AdminServlet.class
+com\example\ItemImageServlet.class
+com\example\LogoutServlet.class
+com\example\ItemServlet.class
+com\example\ChargesServlet.class
+com\example\DB.class
+com\example\ModeratorDashboardServlet.class
+com\example\AdminDashboardServlet.class
+com\example\StudentApprovalServlet.class
+com\example\AuthFilter.class
+com\example\GenerateHashes.class
+com\example\AuthServlet.class
